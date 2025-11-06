@@ -3,7 +3,7 @@ name: Deploy React + Vite to GitHub Pages
 on:
   push:
     branches:
-      - master   # usa tu rama principal
+      - main   # usa tu rama principal
 
 permissions:
   contents: write
@@ -32,5 +32,5 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: gh-pages
+          # El build de Create React App se genera en la carpeta `build` (no `dist`)
           publish_dir: ./build
- 
