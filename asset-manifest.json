@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "https://brandonquinte.github.io/Mini_Project1/static/css/main.3843eb6a.css",
-    "main.js": "https://brandonquinte.github.io/Mini_Project1/static/js/main.aa7e7287.js",
-    "static/js/453.d2ce0a52.chunk.js": "https://brandonquinte.github.io/Mini_Project1/static/js/453.d2ce0a52.chunk.js",
+    "main.js": "https://brandonquinte.github.io/Mini_Project1/static/js/main.18677e30.js",
+    "static/js/453.1b9c58e6.chunk.js": "https://brandonquinte.github.io/Mini_Project1/static/js/453.1b9c58e6.chunk.js",
     "index.html": "https://brandonquinte.github.io/Mini_Project1/index.html",
     "main.3843eb6a.css.map": "https://brandonquinte.github.io/Mini_Project1/static/css/main.3843eb6a.css.map",
-    "main.aa7e7287.js.map": "https://brandonquinte.github.io/Mini_Project1/static/js/main.aa7e7287.js.map",
-    "453.d2ce0a52.chunk.js.map": "https://brandonquinte.github.io/Mini_Project1/static/js/453.d2ce0a52.chunk.js.map"
+    "main.18677e30.js.map": "https://brandonquinte.github.io/Mini_Project1/static/js/main.18677e30.js.map",
+    "453.1b9c58e6.chunk.js.map": "https://brandonquinte.github.io/Mini_Project1/static/js/453.1b9c58e6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3843eb6a.css",
-    "static/js/main.aa7e7287.js"
+    "static/js/main.18677e30.js"
   ]
 }
