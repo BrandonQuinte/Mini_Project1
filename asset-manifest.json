@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://JuanRojasB.github.io/Proyecto/static/css/main.3843eb6a.css",
+    "main.js": "https://JuanRojasB.github.io/Proyecto/static/js/main.a9f2f543.js",
+    "static/js/453.d2ce0a52.chunk.js": "https://JuanRojasB.github.io/Proyecto/static/js/453.d2ce0a52.chunk.js",
+    "index.html": "https://JuanRojasB.github.io/Proyecto/index.html",
+    "main.3843eb6a.css.map": "https://JuanRojasB.github.io/Proyecto/static/css/main.3843eb6a.css.map",
+    "main.a9f2f543.js.map": "https://JuanRojasB.github.io/Proyecto/static/js/main.a9f2f543.js.map",
+    "453.d2ce0a52.chunk.js.map": "https://JuanRojasB.github.io/Proyecto/static/js/453.d2ce0a52.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3843eb6a.css",
+    "static/js/main.a9f2f543.js"
+  ]
+}
